@@ -26,3 +26,15 @@
 
 #### python3 manage.py migrate
 
+## Criar models da tabela
+
+#### #### python3 manage.py makemigrations
+
+## Criar a tebela referente ao models
+
+#### #### python3 manage.py migrate
+
+## Criar super usuário para acessar a área administrativa do django
+
+#### python3 manage.py createsuperuser (tudo junto)
+
